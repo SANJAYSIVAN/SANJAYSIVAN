@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 About Me<br><br>    💻 Passionate about AI, Editing, and software development<br>    🔧 Skilled in Java, Python , C, and beginner in HTML and CSS<br>    🌱 Exploring Flask, MongoDB, and 3D modeling on Blender and D5 Render<br>    🎨 Enthusiastic about design thinking and innovation<br>    ⚡ Working on a Virtual Herbal Garden 🌿for Smart India Hackathon Project <br>    🤖 Developing a Chatbot for College Queries with parent access to marks & attendance for CIET College
+<br><br>    💻 Passionate about AI, Editing, and software development<br>    🔧 Skilled in Java, Python , C, and beginner in HTML and CSS<br>    🌱 Exploring Flask, MongoDB, and 3D modeling on Blender and D5 Render<br>    🎨 Enthusiastic about design thinking and innovation<br>    ⚡ Working on a Virtual Herbal Garden 🌿for Smart India Hackathon Project <br>    🤖 Developing a Chatbot for College Queries with parent access to marks & attendance for CIET College
 
 
 ## 🌐 Socials:
