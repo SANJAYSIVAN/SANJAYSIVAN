@@ -12,7 +12,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SANJAYSIVAN&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SANJAYSIVAN&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies ![](https://komarev.com/ghpvc/?username=your-github-SANJAYSIVAN)
+## 🏆 GitHub Trophies    ![](https://komarev.com/ghpvc/?username=your-github-SANJAYSIVAN)
 
 ![](https://github-profile-trophy.vercel.app/?username=SANJAYSIVAN&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
