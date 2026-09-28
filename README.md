@@ -1,6 +1,5 @@
 # ❖ About Me:
-<br><br>   ⌬ Passionate about AI, Editing, and software development<br>    ⌬ Skilled in  Python , C, Web Development and AI Development <br>    ⌬ Exploring  Frameworks like Flask, MongoDB, and 3D modeling on Blender and D5 Render<br>   ⌬ Enthusiastic about design thinking and innovation<br>    ⌬ Working on a Virtual Herbal Garden for Smart India Hackathon Project <br>    ⌬ Developing a Chatbot for College Queries with parent access to marks & attendance for CIET College
-
+<br><br>   ⌬ Passionate about AI,Tech and software development<br>    ⌬ Skilled in  Python , C, Web Development and AI Development <br>    ⌬ Exploring  Frameworks like Flask, MongoDB, Pytorch <br>   ⌬ Enthusiastic about design thinking and innovation<br>    ⌬ Working on Interesting Projects <br>    ⌬Like to Learn More Each Day , Adapting to new skills
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sanjaysivan_m.k) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjay-m-3a1426307) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](www.youtube.com/@djbgm_2020) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:m.k.sanjaysivan@gmail.com) 
